@@ -1,0 +1,25 @@
+.footer-icons > ul{
+	margin:0;
+	padding:0;
+}
+
+.footer-icons > ul > li{
+	display:inline-block;
+}
+
+.footer-icons > ul > li > a{
+	margin-right:20px;
+	font-size:1.5em;
+	color:#000;
+}
+.footer-icons > ul > li > a > .fa{
+	margin-right:5px;
+}
+
+.empty{
+	color:gray !important;
+}
+
+.empty:hover{
+	color:#444 !important;
+}
